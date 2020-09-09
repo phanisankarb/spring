@@ -52,6 +52,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>org.db</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
